@@ -1,7 +1,7 @@
 # spanishschoolmadrid
 Spanish language school in Madrid offering Spanish language courses for foreigners to learn and study Spanish in total immersion all year round; language courses for students of different levels from beginner to advanced
-https://www.walkspanishmadrid.com/
-Discover Spanish the way it was meant to be learned with Walk Spanish Madrid — not in a traditional classroom, but in the vibrant streets, plazas, markets, parks, and cultural hotspots of Madrid, one of Europe’s most dynamic and inspiring capitals. 
+
+Discover Spanish the way it was meant to be learned with Walk Spanish Madrid — not in a traditional classroom, but in the vibrant streets, plazas, markets, parks, and cultural hotspots of Madrid, one of Europe’s most dynamic and inspiring capitals. Walk Spanish is a [Spanish language school in Madrid](https://www.walkspanishmadrid.com/)
 
 At Walk Spanish Madrid, language learning becomes a real-world adventure. Our immersive Spanish courses are designed for learners of all levels — from beginners taking their first steps in the language to advanced students looking to sharpen fluency — and are grounded in everyday use, conversation, culture, and context. You’ll start any Monday of the year, ensuring flexibility and convenience for travelers, students, and professionals alike. 
 
